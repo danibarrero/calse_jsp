@@ -6,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 </head>
 <body>
-El número introducido más cinco es
+El número introducido más cinco es:
 <%
     String incremento = request.getParameter("incremento");
     double resultado;
